@@ -20,7 +20,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : #title 바로아래 나오는 글
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "아이언맨"
 url                      : "https://WhiDEVte.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
