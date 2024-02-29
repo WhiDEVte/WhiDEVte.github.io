@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : #title 바로아래 나오는 글
-name                     : "Your Name"
+name                     : "Seunghyun"
 description              : "Iron man"
 url                      : "https://WhiDEVte.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
