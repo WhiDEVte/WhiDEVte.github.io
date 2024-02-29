@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
-subtitle                 : "Test"
+subtitle                 : #title 바로아래 나오는 글
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://WhiDEVte.github.io"
