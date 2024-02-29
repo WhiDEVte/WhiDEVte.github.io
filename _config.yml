@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # 맨아래 바 색상 "default", "aqua", "cont
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "한글 나오나"
 title_separator          : "-"
 subtitle                 : #title 바로아래 나오는 글
 name                     : "Seunghyun" # FOLLOW FEED 쪽 이름
